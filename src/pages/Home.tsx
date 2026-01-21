@@ -23,7 +23,7 @@ const Home = () => {
           marginBottom: "1rem",
         }}
       >
-        Welcome to My App
+        Welcome to my test site, i know its so trash but skid it if u want to lol
       </h1>
 
       <Card
